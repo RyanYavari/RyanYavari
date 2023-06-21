@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RyanYavari
 - 👀 I’m interested in Programming!
-- 🌱 I’m currently learning Object-Oriented Programming and Computer Systems.
 - 📫 How to reach me via email: ryanyavari10@gmail.com
 
 <!---
