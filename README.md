@@ -1,4 +1,4 @@
-## Currently open to a Software Engineering Internship for Summer 2024
+## Currently open to a Software Engineering Internship for Summer 2025
 
 
 - 👋 Hi, I’m @RyanYavari
