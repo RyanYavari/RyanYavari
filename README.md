@@ -1,12 +1,12 @@
 ## 
 
 
-- 👋 Hi, I’m @RyanYavari
+- Hi, I’m @RyanYavari
   
 - About me:
-  Hello! I am a 4th Year Computer Science student deeply passionate about back-end software engineering, with a specific focus on machine learning, algorithms, and the intricacies of training AI models. As far back as my memory brings me, I've nurtured a profound love for computers. Aspiring to become a backend engineer, I bring dedication and hands-on experience in software testing and development to the table. Beyond coding, I find joy in an active lifestyle, whether it's strength training or backpacking through national parks. A goal-oriented and communicative individual, I thrive in collaborative environments and am eager to contribute to impactful projects in the dynamic tech landscape.
+I’m a Master’s student in Computer Science at Georgia Tech, passionate about back-end engineering and machine learning. I currently lead the development of Ernie, the AI-powered chatbot for San José Mineta International Airport (flysanjose.com), where I’m integrating LLMs, semantic search, and real-time voice capabilities. I also built Optimal, an AI accountability coach that helps users achieve their goals through agentic workflows. My interests include sports analytics, MLB betting models, and designing scalable AI systems, supported by a strong background in database systems and architecture. Outside of tech, I maintain an active lifestyle through long-distance running, strength training, and backpacking national parks (so far just California).
   
-- 📫 How to reach me via email: ryanyavari10@gmail.com
+- How to reach me via email: ryanyavari10@gmail.com
 
 <!---
 RyanYavari/RyanYavari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
