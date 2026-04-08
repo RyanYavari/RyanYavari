@@ -11,4 +11,4 @@ I build production AI systems at the application layer: RAG pipelines, agentic w
 
 **Currently:** Building agentic systems and studying ML at Georgia Tech
 
-Contact me via email: ryanyavari10@gmail.com 
+Contact: ryanyavari10@gmail.com 
