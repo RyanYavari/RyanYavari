@@ -13,7 +13,7 @@
 <a href="https://useoptimal.app/"><img src="https://img.shields.io/badge/Optimal-useoptimal.app-10b981?style=for-the-badge&logo=rocket&logoColor=white" alt="Optimal" /></a>
 <a href="https://www.flysanjose.com/"><img src="https://img.shields.io/badge/Live%20Work-flysanjose.com-f59e0b?style=for-the-badge&logo=airplayaudio&logoColor=white" alt="flysanjose.com" /></a>
 <a href="https://www.loom.com/share/692237f364174fa7bd52238adc1beb88"><img src="https://img.shields.io/badge/Demo-Watch%20on%20Loom-625df5?style=for-the-badge&logo=loom&logoColor=white" alt="Optimal demo" /></a>
-<a href="mailto:ryanyavari10@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ryanyavari10@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -53,7 +53,7 @@ I build **production AI systems at the application layer**: RAG pipelines, agent
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ryan--yavari-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-yavari/)
-[![Email](https://img.shields.io/badge/Email-ryanyavari10%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ryanyavari10@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ryanyavari10%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ryanyavari10@gmail.com)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" alt="" />
