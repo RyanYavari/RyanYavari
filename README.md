@@ -11,6 +11,7 @@
 <a href="https://www.ryanyavari.com/"><img src="https://img.shields.io/badge/Portfolio-ryanyavari.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/ryan-yavari/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://useoptimal.app/"><img src="https://img.shields.io/badge/Optimal-useoptimal.app-10b981?style=for-the-badge&logo=rocket&logoColor=white" alt="Optimal" /></a>
+<a href="https://useprepagent.app/"><img src="https://img.shields.io/badge/PrepAgent-useprepagent.app-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PrepAgent" /></a>
 <a href="https://www.flysanjose.com/"><img src="https://img.shields.io/badge/Live%20Work-flysanjose.com-f59e0b?style=for-the-badge&logo=airplayaudio&logoColor=white" alt="flysanjose.com" /></a>
 <a href="https://www.loom.com/share/692237f364174fa7bd52238adc1beb88"><img src="https://img.shields.io/badge/Demo-Watch%20on%20Loom-625df5?style=for-the-badge&logo=loom&logoColor=white" alt="Optimal demo" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ryanyavari10@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -29,6 +30,7 @@ I build **production AI systems at the application layer**: RAG pipelines, agent
 |---|---|---|
 | **SJC Airport AI Assistant** | AI customer service system live on flysanjose.com, serving **10,000+ travelers** since launch | [Try it live](https://www.flysanjose.com/) (chatbot is bottom right) |
 | **Optimal** | Multi-agent productivity app with human-in-the-loop approval gates and agentic workflows | [Website](https://useoptimal.app/) · [Demo video](https://www.loom.com/share/692237f364174fa7bd52238adc1beb88) |
+| **PrepAgent** | Multi-agent AI interview research tool that gathers company and role context to prep you for interviews | [Website](https://useprepagent.app/) |
 
 ## Tech I Work With
 
@@ -46,9 +48,9 @@ I build **production AI systems at the application layer**: RAG pipelines, agent
 
 ## Currently
 
-- Building agentic systems
-- Studying ML at Georgia Tech
-- Open to full-time **AI Engineer** and **SWE** roles
+- Building personal projects
+- Completing my MSCS at Georgia Tech
+- Looking for full-time **AI Engineer** or **Software Engineer** roles
 
 ## Let's Connect
 
